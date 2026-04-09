@@ -1,0 +1,21 @@
+{
+  "mode": {
+    "type": "enum",
+    "name": "拖拽模式",
+    "default": "move_window",
+    "options": ["move_window", "move_model"],
+    "hint": "鼠标拖动live2d的模式"
+  },
+  "model_path": {
+    "type": "string",
+    "name": "live2d模型的路径",
+    "default": "data\\plugins\\kira_live2d\\2D\\Hiyori.model3.json",
+    "hint": "模型路径在插件的2D文件夹找，留空则使用默认模型"
+  },
+  "model_scale": {
+    "type": "integer",
+    "name": "live2d模型的大小",
+    "default": 1.0,
+    "hint": "模型的大小，不建议太大"
+  }
+}

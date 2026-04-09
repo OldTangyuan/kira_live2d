@@ -1,0 +1,8 @@
+{
+    "display_name": "Kira-Live2D",
+    "plugin_id": "kira-live2d",
+    "version": "1.0",
+    "author": "Old_tangyuan",
+    "description": "这个插件能让一个live2d展示在你的桌面上",
+    "repo": "https://github.com/OldTangyuan/kira-live2d"
+  }
